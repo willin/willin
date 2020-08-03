@@ -1,0 +1,28 @@
+name: Update events
+
+on:
+  watch:
+    types: started
+  # schedule:
+  #   - cron: '0 */4 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - uses: actions/setup-node@v2-beta
+        with:
+          node-version: '14'
+      - name: Fetch events
+        run: |-
+          sudo timedatectl set-timezone Asia/Shanghai
+          npm install
+          npm run fetch
+      - name: Commit and push
+        run: |-
+          git config --global user.email "bot@github.com" && git config --global user.name "Bot"
+          git add . && git commit -m ":memo: 更新自述" || exit 0
+          git push

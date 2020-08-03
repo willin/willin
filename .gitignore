@@ -1,0 +1,17 @@
+node_modules/
+.nyc_output/
+backup/
+demo/
+.idea/
+.avoscloud/
+.leancloud/
+
+start.sh
+.migrate
+.DS_Store
+*.log
+*.log.*
+
+# VIM
+*~
+*.swp

@@ -1,0 +1,33 @@
+{
+  "name": "willin",
+  "version": "1.0.0",
+  "description": "To be Willin is to be willing.",
+  "main": "index.js",
+  "scripts": {
+    "fetch": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willin/willin.git"
+  },
+  "keywords": [
+    "Willin"
+  ],
+  "author": "Willin Wang",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/willin/willin/issues"
+  },
+  "homepage": "https://github.com/willin/willin#readme",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^7.5.0",
+    "eslint-config-willin": "^1.0.5",
+    "eslint-plugin-import": "^2.22.0",
+    "prettier": "^2.0.5"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dayjs": "^1.8.29"
+  }
+}

@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.pdf binary
+*.ai binary
+*.psd binary
+Vendor/* linguist-vendored
+*.md linguist-language=TypeScript
