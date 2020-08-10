@@ -26,12 +26,12 @@
 
 ### :punch: Codewars
 
-@jsv0 | ***1 kyu*** (6508)
+@jsv0 | ***1 kyu*** (6537)
 
-Leaderboard Position: ***553***, Total Completed Kata: ***173***
+Leaderboard Position: ***553***, Total Completed Kata: ***180***
 
 ### :sparkles: Open Source Work Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=willin&show_icons=true&theme=gruvbox)
 
-我的近期动态（点个 [Star](https://github.com/willin/willin) 将触发自动刷新，最近更新时间：`2020-07-31 12:11:13`）
+我的近期动态（点个 [Star](https://github.com/willin/willin) 将触发自动刷新，最近更新时间：`2020-08-10 14:24:16`）
