@@ -36,4 +36,4 @@ Leaderboard Position: ***530***, Total Completed Kata: ***211***
 ![](https://github-readme-stats.vercel.app/api?username=willin&show_icons=true&theme=gruvbox) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=willin&layout=compact&theme=gruvbox) 
 
 
-我的近期动态（点个 [Star](https://github.com/willin/willin) 将触发自动刷新，最近更新时间：`2021-01-16 15:43:50`）
+我的近期动态（点个 [Star](https://github.com/willin/willin) 将触发自动刷新，最近更新时间：`2021-01-17 10:14:29`）
