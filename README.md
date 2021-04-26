@@ -29,15 +29,15 @@
 
 @jsv0 | ***1 kyu*** (7208)
 
-Leaderboard Position: ***563***, Total Completed Kata: ***211***
+Leaderboard Position: ***580***, Total Completed Kata: ***211***
 
 ### :sparkles: Open Source Work Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=willin&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true) 
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=willin&theme=gruvbox&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=willin&layout=compact&theme=gruvbox&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=willin&layout=compact&theme=gruvbox&hide_border=true) 
 
 
-我的近期动态（点个 [Star](https://github.com/willin/willin) 将触发自动刷新，最近更新时间：`2021-03-24 17:41:57`）
+我的近期动态（点个 [Star](https://github.com/willin/willin) 将触发自动刷新，最近更新时间：`2021-04-26 18:00:48`）
