@@ -13,6 +13,8 @@
 
 共计篇 `14` 文章，`2.08` 万字。
 
+<details><summary>Latest Posts</summary>
+
 - [羡鱼「初瘦酒馆」](https://v0.chat/p/shine/) | 初瘦酒馆 | 2021 年 06 月 07 日
 - [过敏的郭敏「初瘦酒馆」](https://v0.chat/p/god-mind/) | 初瘦酒馆 | 2021 年 01 月 30 日
 - [不如算了吧](https://v0.chat/p/fxxk-shiwangme/) | 闲聊 | 2020 年 09 月 29 日
@@ -25,18 +27,27 @@
 - [中年人就该有勇气面对过去的自己](https://v0.chat/p/hello-lynkco/) | 闲聊 | 2020 年 04 月 02 日
 
 
+</details>
+
 ### :punch: Codewars
 
 @jsv0 | ***1 kyu*** (7284)
 
-Leaderboard Position: ***595***, Total Completed Kata: ***222***
+Leaderboard Position: ***600***, Total Completed Kata: ***222***
 
 ### :sparkles: Open Source Work Stats
 
-![](https://github-readme-stats.vercel.app/api?username=willin&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true) 
-
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=willin&layout=compact&theme=gruvbox&hide_border=true)
+
+<details>
+<summary>More Details</summary>
+
+![](https://github-readme-stats.vercel.app/api?username=willin&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true)
 
 ![](https://wakatime.com/share/@willin/6c896789-d86b-4dfa-a9e8-b95c4c3d623c.svg)
 
-我的近期动态（点个 [Star](https://github.com/willin/willin) 将触发自动刷新，最近更新时间：`2021-06-08 23:00:04`）
+</details>
+
+&nbsp;
+
+我的近期动态（点个 [Star](https://github.com/willin/willin) 将触发自动刷新，最近更新时间：`2021-06-16 15:50:41`）
