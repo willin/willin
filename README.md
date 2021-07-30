@@ -2,7 +2,7 @@
   <a href="https://github.com/willin/willin" target="_blank"><img src="https://hits.b3log.org/willin/willin.svg"></a>
   <br>
 	<p>走过路过，岂能没有 `Follow` 过？！</p>
-</div>                                                                                              |
+</div>
 
 ### :notebook: 写作
 
@@ -42,10 +42,6 @@ Leaderboard Position: ***619***, Total Completed Kata: ***225***
 <details>
 <summary>More Details</summary>
 
-![](https://github-readme-stats.vercel.app/api?username=willin&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true)
-
-<img src="https://wakatime.com/share/@willin/6c896789-d86b-4dfa-a9e8-b95c4c3d623c.svg" style="width:494px">
-
 ### :wrench: 技术栈
 
 | End                                                                  | Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -54,12 +50,17 @@ Leaderboard Position: ***619***, Total Completed Kata: ***225***
 | ![Frontend](https://img.shields.io/badge/-Frontend-black?style=flat) | ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00c58e?style=flat&logo=nuxt.js&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=white) ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat&logo=leaflet&logoColor=white) ![Cesium](https://img.shields.io/badge/-Cesium-6caddf?style=flat&logo=cesium&logoColor=white)                                 |
 | ![Styling](https://img.shields.io/badge/-Styling-black?style=flat)   | ![Less](https://img.shields.io/badge/-Less-1d365d?style=flat&logo=less&logoColor=white) ![Stylus](https://img.shields.io/badge/-Stylus-333?style=flat&logo=stylus&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-c69?style=flat&logo=sass&logoColor=white) ![PostCSS](https://img.shields.io/badge/-PostCSS-dd3a0a?style=flat&logo=postcss&logoColor=white)                                                                                                                                                       |
 | ![Backend](https://img.shields.io/badge/-Backend-black?style=flat)   | ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat&logo=mongodb) ![Redis](https://img.shields.io/badge/-Redis-white?style=flat&logo=Redis) ![NestJS](https://img.shields.io/badge/-NestJS-white?style=flat&logo=NestJS&logoColor=333) ![Fastify](https://img.shields.io/badge/-Fastify-white?style=flat&logo=fastify&logoColor=333) ![Graphql](https://img.shields.io/badge/-Graphql-white?style=flat&logo=graphql&logoColor=#E434AA) |
-| ![Devops](https://img.shields.io/badge/-Devops-black?style=flat)     | ![GitHub Action][github-action] ![Nginx](https://img.shields.io/badge/-Nginx-CEF1D1?style=flat&logo=nginx) ![Docker](https://img.shields.io/badge/-Docker-cbe3f2?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-cbe3f2?style=flat&logo=kubernetes)                                                                                                                                                                                                                                             |
+| ![Devops](https://img.shields.io/badge/-Devops-black?style=flat)     | ![GitHub Action](https://img.shields.io/badge/-GitHub_Actions-black?style=flat&logo=github) ![Nginx](https://img.shields.io/badge/-Nginx-CEF1D1?style=flat&logo=nginx) ![Docker](https://img.shields.io/badge/-Docker-cbe3f2?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-cbe3f2?style=flat&logo=kubernetes)                                                                                                                                                                                 |
 | ![OS](https://img.shields.io/badge/-OS-black?style=flat)             | ![MacOS](https://img.shields.io/badge/-MacOS-white?style=flat&logo=macos&logoColor=333) ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-white?style=flat&logo=ArchLinux) ![Manjaro](https://img.shields.io/badge/-Manjaro-white?style=flat&logo=Manjaro)                                                                                                                                                                                                                                                                |
 | ![Other](https://img.shields.io/badge/-Ohter-black?style=flat)       | ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=Visual-Studio-Code) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)                                                                                                                                                                                                                                                                        |
+
+![](https://github-readme-stats.vercel.app/api?username=willin&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true)
+
+<img src="https://wakatime.com/share/@willin/6c896789-d86b-4dfa-a9e8-b95c4c3d623c.svg" style="width:494px;">
+                                                        |
 
 </details>
 
 &nbsp;
 
-我的近期动态（点个 [Star](https://github.com/willin/willin) 将触发自动刷新，最近更新时间：`2021-07-30 16:32:42`）
+我的近期动态（点个 [Star](https://github.com/willin/willin) 将触发自动刷新，最近更新时间：`2021-07-30 18:04:13`）
