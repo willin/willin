@@ -2,7 +2,7 @@ const dayjs = require('dayjs');
 require('dayjs/locale/zh-cn');
 const path = require('path');
 const { writeFileSync, readFileSync } = require('fs');
-const { v0, codewars } = require('./lib');
+const { v0 } = require('./lib');
 
 dayjs().utcOffset(8);
 
@@ -22,13 +22,6 @@ dayjs().utcOffset(8);
   writings += '\n\n</details>';
 
   md = md.replace('<!-- WRITINGS -->', writings);
-
-  const cwResult = await codewars();
-  const { score, position, level, total } = cwResult;
-
-  let rankup = `@jsv0 | ***${level}*** (${score})\n\n`;
-  rankup += `Leaderboard Position: ***${position}***, Total Completed Kata: ***${total}***`;
-  md = md.replace('<!-- CODEWARS -->', rankup);
 
   md = md.replace('<!-- UPDATED_TIME -->', dayjs().format('YYYY-MM-DD HH:mm:ss'));
 

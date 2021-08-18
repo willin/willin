@@ -29,11 +29,6 @@
 
 </details>
 
-### :punch: Codewars
-
-@jsv0 | ***1 kyu*** (7296)
-
-Leaderboard Position: ***619***, Total Completed Kata: ***225***
 
 ### :sparkles: Open Source Work Stats
 
@@ -62,4 +57,4 @@ Leaderboard Position: ***619***, Total Completed Kata: ***225***
 
 &nbsp;
 
-我的近期动态（点个 [Star](https://github.com/willin/willin) 将触发自动刷新，最近更新时间：`2021-08-04 10:27:02`）
+我的近期动态（点个 [Star](https://github.com/willin/willin) 将触发自动刷新，最近更新时间：`2021-08-18 13:49:47`）
