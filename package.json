@@ -27,7 +27,7 @@
     "prettier": "^2.0.5"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "dayjs": "^1.8.29"
   }
 }
