@@ -31,7 +31,9 @@
 
 ### :sparkles: Open Source Work Stats
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=willin&layout=compact&theme=gruvbox&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=willin&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true)
+
+<img src="https://wakatime.com/share/@willin/6c896789-d86b-4dfa-a9e8-b95c4c3d623c.svg" style="width:494px;">
 
 ### :wrench: 技术栈
 
@@ -44,15 +46,6 @@
 | ![Devops](https://img.shields.io/badge/-Devops-black?style=flat)     | ![GitHub Action](https://img.shields.io/badge/-GitHub_Actions-black?style=flat&logo=github) ![Nginx](https://img.shields.io/badge/-Nginx-CEF1D1?style=flat&logo=nginx) ![Docker](https://img.shields.io/badge/-Docker-cbe3f2?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-cbe3f2?style=flat&logo=kubernetes)                                                                                                                                                                                                                                                     |
 | ![OS](https://img.shields.io/badge/-OS-black?style=flat)             | ![MacOS](https://img.shields.io/badge/-MacOS-white?style=flat&logo=macos&logoColor=333) ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-white?style=flat&logo=ArchLinux) ![Manjaro](https://img.shields.io/badge/-Manjaro-white?style=flat&logo=Manjaro)                                                                                                                                                                                                                                                                                                                                    |
 | ![Other](https://img.shields.io/badge/-Ohter-black?style=flat)       | ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=Visual-Studio-Code) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)                                                                                                                                                                                                                                                                                                                                            |
-
-<details>
-<summary>More Details</summary>
-
-![](https://github-readme-stats.vercel.app/api?username=willin&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true)
-
-<img src="https://wakatime.com/share/@willin/6c896789-d86b-4dfa-a9e8-b95c4c3d623c.svg" style="width:494px;">
-
-</details>
 
 &nbsp;
 
