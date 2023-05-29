@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/willin/willin" target="_blank"><img src="https://hits.b3log.org/willin/willin.svg"> <img src="https://komarev.com/ghpvc/?username=willin&color=007EEF&label=Profile%20Views"></a>
+  <a href="https://willin.wang/" target="_blank"><img src="https://hits.b3log.org/willin/willin.svg"> <img src="https://komarev.com/ghpvc/?username=willin&color=007EEF&label=Profile%20Views"></a>
   <br>
 	<p>走过路过，岂能没有 `Follow` 过？！</p>
   <div>
